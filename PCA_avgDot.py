@@ -81,6 +81,5 @@ plt.xlabel("TimeStamp")
 plt.ylabel("merged Component")
 plt.title("PCA Visualization of Data")
 
-print("70실행되고있는거맞묘?")
 
 plt.savefig("/scratch/VF/Visualization_data/result_70AVG.jpg")
